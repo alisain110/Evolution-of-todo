@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(uv --version)",
+      "Bash(uv init)",
+      "Bash(git init)",
+      "Bash(git add .)",
+      "Bash(git rm --cached Evolution-of-todo)",
+      "Bash(git rm -r --cached Evolution-of-todo)",
+      "Bash(git rm -f --cached Evolution-of-todo)"
+    ]
+  }
+}
