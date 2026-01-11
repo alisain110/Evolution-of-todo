@@ -11,3 +11,7 @@ wheels/
 
 # Exclude nested project
 Evolution-of-todo/
+
+# Node modules
+node_modules/
+**/node_modules/
